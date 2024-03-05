@@ -1,0 +1,16 @@
+C:\Users\hugoj\source\repos\Week 3\assignment9\bin\Debug\net6.0-windows\assignment9.exe
+C:\Users\hugoj\source\repos\Week 3\assignment9\bin\Debug\net6.0-windows\assignment9.deps.json
+C:\Users\hugoj\source\repos\Week 3\assignment9\bin\Debug\net6.0-windows\assignment9.runtimeconfig.json
+C:\Users\hugoj\source\repos\Week 3\assignment9\bin\Debug\net6.0-windows\assignment9.dll
+C:\Users\hugoj\source\repos\Week 3\assignment9\bin\Debug\net6.0-windows\assignment9.pdb
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.Form1.resources
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.csproj.GenerateResource.cache
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.dll
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\refint\assignment9.dll
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.pdb
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\assignment9.genruntimeconfig.cache
+C:\Users\hugoj\source\repos\Week 3\assignment9\obj\Debug\net6.0-windows\ref\assignment9.dll
