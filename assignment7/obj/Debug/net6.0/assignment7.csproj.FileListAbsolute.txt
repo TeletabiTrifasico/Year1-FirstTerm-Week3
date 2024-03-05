@@ -1,0 +1,14 @@
+C:\Users\hugoj\source\repos\Week 3\assignment7\bin\Debug\net6.0\assignment7.exe
+C:\Users\hugoj\source\repos\Week 3\assignment7\bin\Debug\net6.0\assignment7.deps.json
+C:\Users\hugoj\source\repos\Week 3\assignment7\bin\Debug\net6.0\assignment7.runtimeconfig.json
+C:\Users\hugoj\source\repos\Week 3\assignment7\bin\Debug\net6.0\assignment7.dll
+C:\Users\hugoj\source\repos\Week 3\assignment7\bin\Debug\net6.0\assignment7.pdb
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.dll
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\refint\assignment7.dll
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.pdb
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\assignment7.genruntimeconfig.cache
+C:\Users\hugoj\source\repos\Week 3\assignment7\obj\Debug\net6.0\ref\assignment7.dll
